@@ -1,0 +1,15 @@
+﻿  Main.cpp
+c:\graphics\opengl project\opengl project\opengl project\main.cpp(48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\graphics\opengl project\opengl project\opengl project\main.cpp(49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\graphics\opengl project\opengl project\opengl project\main.cpp(53): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\graphics\opengl project\opengl project\opengl project\main.cpp(54): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\graphics\opengl project\opengl project\opengl project\main.cpp(56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\graphics\opengl project\opengl project\opengl project\main.cpp(57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\graphics\opengl project\opengl project\opengl project\main.cpp(64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\graphics\opengl project\opengl project\opengl project\main.cpp(254): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\graphics\opengl project\opengl project\opengl project\main.cpp(295): warning C4018: '<': signed/unsigned mismatch
+c:\graphics\opengl project\opengl project\opengl project\main.cpp(319): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+c:\graphics\opengl project\opengl project\opengl project\main.cpp(321): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+c:\graphics\opengl project\opengl project\opengl project\main.cpp(323): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+c:\graphics\opengl project\opengl project\opengl project\main.cpp(544): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  OpenGL Project.vcxproj -> C:\Graphics\OpenGL Project\OpenGL Project\Debug\OpenGL Project.exe
